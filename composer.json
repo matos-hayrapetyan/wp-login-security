@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WPLoginSecurity\\": ["src/"]
+    }
+  },
+  "require": {
+    "bjeavons/zxcvbn-php": "^1.2",
+    "phpunit/phpunit": "^7"
+  }
+}
